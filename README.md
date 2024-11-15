@@ -146,15 +146,24 @@ Reads and showcases images from a given directory, printing the dimensions of ea
 
 #### B) Video_fps
 A real-time video capture function that displays a live video feed while calculating and showing the frames per second (FPS) for performance monitoring.
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/8c5e5723-12c6-4000-8ded-0006b4063117" alt="concat" >
 
 #### C) Video_save
 Captures live video from the webcam and writes it to a specified output file, allowing easy recording and saving of video content.
 
 #### D) Video_stack
 Reads two separate video files, resizes them, and combines them side by side for synchronized dual-video playback, ideal for comparing footage.
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/5e1bd346-6d0d-47c4-a92d-878550459da8" alt="concat" >
 
 #### E) Video_stream
 Captures and streams live video feed from the webcam, displaying it in real-time. Useful for basic video streaming applications.
+- **Output**:
+  <br>
+  <img src="https://github.com/user-attachments/assets/3ef6f39c-c1cd-4671-9cab-0138695de63e" alt="concat" >
 
 ## Annotations Project Overview
 
