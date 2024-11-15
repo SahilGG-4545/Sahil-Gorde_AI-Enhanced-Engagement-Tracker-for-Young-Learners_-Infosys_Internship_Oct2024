@@ -141,8 +141,8 @@ Removes noise and closes gaps in an image using morphological operations.
 
 ### Developed Logics:
 
-#### A) Video_multivideo
-Reads and showcases images from a given directory, printing the dimensions of each image to the console for batch image analysis.
+#### A) Video_processing
+A real-time video capture and processing function.
 
 #### B) Video_fps
 A real-time video capture function that displays a live video feed while calculating and showing the frames per second (FPS) for performance monitoring.
